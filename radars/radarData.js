@@ -133,37 +133,28 @@ var radar_data = [
         "top" :   (h/2 + 18),
         "items" : [ 
             {"name":"Objective-C", "pc":{"r":390,"t":355},"movement":"c"},   
-            {"name":"Shell sqripting (unix)", "pc":{"r":370,"t":330},"movement":"c"}, 
-			
+            {"name":"Shell sqripting (unix)", "pc":{"r":370,"t":330},"movement":"c"},
             {"name":"Lisp", "pc":{"r":370,"t":320},"movement":"c"},   
-            {"name":"Wicket", "pc":{"r":360,"t":310},"movement":"c"}, 
-			
+            {"name":"Wicket", "pc":{"r":360,"t":310},"movement":"c"}, 		
             {"name":"Java 6", "pc":{"r":350,"t":275},"movement":"c"},   
-            {"name":"Lift", "pc":{"r":330,"t":340},"movement":"c"}, 
-			
-			
+            {"name":"Lift", "pc":{"r":330,"t":340},"movement":"c"}, 			
 			{"name":"Scala", "pc":{"r":290,"t":355},"movement":"c"},   
-            {"name":"Guice", "pc":{"r":270,"t":330},"movement":"c"}, 
-			
+            {"name":"Guice", "pc":{"r":270,"t":330},"movement":"c"},			
             {"name":"Phyton", "pc":{"r":230,"t":320},"movement":"c"},   
-            {"name":"Scalatra", "pc":{"r":240,"t":310},"movement":"c"}, 
-			
+            {"name":"Scalatra", "pc":{"r":240,"t":310},"movement":"c"},			
             {"name":"DART", "pc":{"r":250,"t":285},"movement":"c"},   
-            {"name":"Ruby on Rails", "pc":{"r":230,"t":340},"movement":"c"}, 
-
+            {"name":"Ruby on Rails", "pc":{"r":230,"t":340},"movement":"c"},
 			{"name":"Groovy", "pc":{"r":190,"t":280},"movement":"c"}, 
 			{"name":"Clojure", "pc":{"r":190,"t":300},"movement":"c"}, 
 			{"name":"Play", "pc":{"r":170,"t":320},"movement":"c"}, 
 			{"name":"Java 8", "pc":{"r":180,"t":340},"movement":"c"}, 
 			{"name":"Backbone.js", "pc":{"r":140,"t":280},"movement":"c"}, 
 			{"name":"AngularJS", "pc":{"r":160,"t":285},"movement":"c"},
-			{"name":"Ember", "pc":{"r":140,"t":350},"movement":"c"}, 
-			
+			{"name":"Ember", "pc":{"r":140,"t":350},"movement":"c"}, 			
             {"name":"JQuery", "pc":{"r":90,"t":355},"movement":"c"},   
             {"name":"Spring", "pc":{"r":90,"t":330},"movement":"c"},   
             {"name":"CSS Frameworks", "pc":{"r":90,"t":285},"movement":"c"},   
-            {"name":"Less", "pc":{"r":50,"t":320},"movement":"c"}, 
-			
+            {"name":"Less", "pc":{"r":50,"t":320},"movement":"c"}, 			
             {"name":"Java 7", "pc":{"r":20,"t":330},"movement":"c"},   
             {"name":"RequireJS", "pc":{"r":60,"t":300},"movement":"c"},   
             {"name":"HTML 5", "pc":{"r":50,"t":282},"movement":"c"}
